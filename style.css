@@ -46,7 +46,7 @@ nav a {
 }
 
 .hero {
-    background: url('images/background.jpg') center/cover no-repeat;
+    background: url('images/1765049378369.mp4') center/cover no-repeat;
     height: 300px;
     border-radius: 10px;
     display: flex;
@@ -90,3 +90,4 @@ footer {
     color: white;
     margin-top: 20px;
 }
+
